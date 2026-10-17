@@ -16,5 +16,7 @@
 
 **Repository:** https://github.com/austinjoshua0/RoboGuard
 
+**Live demo:** https://austinjoshua0.github.io/RoboGuard/
+
 **Demo:** Run locally using the instructions above. The demo uses simulated rover telemetry and is not connected to a physical robot.
 
