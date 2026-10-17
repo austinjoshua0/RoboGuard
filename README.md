@@ -2,6 +2,8 @@
 
 **Robot health, made legible.** RoboGuard is an open-source robotics diagnostic dashboard that helps an engineer spot unusual telemetry and turn it into a practical next inspection. The demo follows a warehouse rover with a heating left wheel motor and an encoder mismatch.
 
+**Live demo:** <https://austinjoshua0.github.io/RoboGuard/>. It runs the simulated dashboard in your browser. Open-weight AI explanations use the optional local Ollama setup below.
+
 ## Why this exists
 
 A robot can keep moving while a motor overheats or its wheels stop behaving alike. Those signals are easy to miss in raw logs. RoboGuard puts the live readings, trend lines, alerts, and a plain-language diagnostic in one place.
@@ -55,3 +57,4 @@ This is a hack-day prototype with synthetic telemetry, illustrative event histor
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
