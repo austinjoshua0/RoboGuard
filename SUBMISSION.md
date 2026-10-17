@@ -14,6 +14,7 @@
 
 **Technology:** Vanilla JavaScript, HTML/CSS, Python standard library, Ollama, Gemma 3 1B.
 
-**Repository:** Add the public GitHub repository URL after publishing.
+**Repository:** https://github.com/austinjoshua0/RoboGuard
 
 **Demo:** Run locally using the instructions above. The demo uses simulated rover telemetry and is not connected to a physical robot.
+
